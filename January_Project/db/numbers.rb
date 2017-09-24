@@ -1,0 +1,32 @@
+
+# require_relative '../config/environment.rb'
+
+january_numbers =
+[{"Date":"1/3/16","Daily Goal":"$9,809.00","LY FS":221,"LY CONV":22.2,"LY ADT ":156.33},
+{"Date":"1/4/16","Daily Goal":"$10,322.00","LY FS":168,"LY CONV":28.6,"LY ADT ":269.88},
+{"Date":"1/5/16","Daily Goal":"$7,693.00","LY FS":136,"LY CONV":25.7,"LY ADT ":200.13},
+{"Date":"1/6/16","Daily Goal":"$8,142.00","LY FS":108,"LY CONV":38,"LY ADT ":161.1},
+{"Date":"1/7/16","Daily Goal":"$6,732.00","LY FS":77,"LY CONV":35.1,"LY ADT ":110.18},
+{"Date":"1/8/16","Daily Goal":"$8,783.00","LY FS":115,"LY CONV":31.3,"LY ADT ":164.75},
+{"Date":"1/9/16","Daily Goal":"$12,630.00","LY FS":169,"LY CONV":25.4,"LY ADT ":167.19},
+{"Date":"1/10/16","Daily Goal":"$7,719.00","LY FS":110,"LY CONV":23.6,"LY ADT ":230.44},
+{"Date":"1/11/16","Daily Goal":"$6,061.00","LY FS":89,"LY CONV":24.7,"LY ADT ":246.9},
+{"Date":"1/12/16","Daily Goal":"$4,785.00","LY FS":97,"LY CONV":21.6,"LY ADT ":105.41},
+{"Date":"1/13/16","Daily Goal":"$8,549.00","LY FS":107,"LY CONV":39.3,"LY ADT ":260.25},
+{"Date":"1/14/16","Daily Goal":"$6,954.00","LY FS":119,"LY CONV":30.3,"LY ADT ":162.76},
+{"Date":"1/15/16","Daily Goal":"$11,930.00","LY FS":139,"LY CONV":36.7,"LY ADT ":202.72},
+{"Date":"1/16/16","Daily Goal":"$17,799.00","LY FS":284,"LY CONV":19.7,"LY ADT ":219.67},
+{"Date":"1/17/16","Daily Goal":"$7,439.00","LY FS":97,"LY CONV":25.8,"LY ADT ":63.93},
+{"Date":"1/18/16","Daily Goal":"$8,606.00","LY FS":155,"LY CONV":29.7,"LY ADT ":184.57},
+{"Date":"1/19/16","Daily Goal":"$4,279.00","LY FS":75,"LY CONV":26.7,"LY ADT ":305.93},
+{"Date":"1/20/16","Daily Goal":"$4,862.00","LY FS":85,"LY CONV":23.5,"LY ADT ":222.84},
+{"Date":"1/21/16","Daily Goal":"$5,057.00","LY FS":75,"LY CONV":21.3,"LY ADT ":233.07},
+{"Date":"1/22/16","Daily Goal":"$8,022.00","LY FS":122,"LY CONV":36.9,"LY ADT ":186.56},
+{"Date":"1/23/16","Daily Goal":"$10,356.00","LY FS":127,"LY CONV":21.3,"LY ADT ":257.29},
+{"Date":"1/24/16","Daily Goal":"$6,866.00","LY FS":153,"LY CONV":22.2,"LY ADT ":180.58},
+{"Date":"1/25/16","Daily Goal":"$4,144.00","LY FS":43,"LY CONV":27.9,"LY ADT ":178.98},
+{"Date":"1/26/16","Daily Goal":"$5,268.00","LY FS":41,"LY CONV":36.6,"LY ADT ":225.09},
+{"Date":"1/27/16","Daily Goal":"$7,281.00","LY FS":64,"LY CONV":28.1,"LY ADT ":310.92},
+{"Date":"1/28/16","Daily Goal":"$8,169.00","LY FS":75,"LY CONV":33.3,"LY ADT ":303.62},
+{"Date":"1/29/16","Daily Goal":"$11,602.00","LY FS":120,"LY CONV":38.3,"LY ADT ":260.91},
+{"Date":"1/30/16","Daily Goal":"$15,864.00","LY FS":149,"LY CONV":29.5,"LY ADT ":264.68}]
